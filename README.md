@@ -9,9 +9,9 @@ This is my GitHub page for StopTime, a very basic timer program I made with Visu
 
 ## Here's what it looks like
 * StopWatch Tab
-  * ![alt text](https://github.com/crwgrant/StopTime/blob/master/StopWatch.PNG "StopWatch tab")
+  ![alt text](https://github.com/crwgrant/StopTime/master/StopWatch.PNG "StopWatch tab")
 * Timer Tab
-  * ![alt text](https://github.com/crwgrant/StopTime/blob/master/Timer.PNG "Timer tab")
+  ![alt text](https://github.com/crwgrant/StopTime/master/Timer.PNG "Timer tab")
 
 ------
 Thanks for stopping by and looking.
