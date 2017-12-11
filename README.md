@@ -4,8 +4,8 @@ This is my GitHub page for StopTime, a very basic timer program I made with Visu
 ## Why is it basic?
 * Simple start/stop fucntionality
 * Nothing else in it
-  * I'm a new programmer so I don't know how to put harmful stuff in it.
-* And it's free. Because I wouldn't pay for it either. 
+  * I'm a new programmer so I don't know how to put harmful stuff in it
+* And it's free. Because I wouldn't pay for it either
 
 ## Here's what it looks like
 * StopWatch Tab
